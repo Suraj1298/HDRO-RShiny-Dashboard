@@ -1,0 +1,896 @@
+country_code,country_name,indicator_id,indicator_name,index_id,index_name,value,year
+#country+code,#country+name,#indicator+id,#indicator+name,#index+id,#index+name,#indicator+value+num,#date+year
+AUS,Australia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,21.673,1990
+AUS,Australia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,21.491,1991
+AUS,Australia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,21.593,1992
+AUS,Australia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,20.629,1993
+AUS,Australia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,20.312,1994
+AUS,Australia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,19.797,1995
+AUS,Australia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,19.469,1996
+AUS,Australia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,18.99,1997
+AUS,Australia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,18.257,1998
+AUS,Australia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,17.959,1999
+AUS,Australia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,17.357,2000
+AUS,Australia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,17.238,2001
+AUS,Australia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,16.826,2002
+AUS,Australia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,15.998,2003
+AUS,Australia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,15.913,2004
+AUS,Australia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,15.998,2005
+AUS,Australia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,15.815,2006
+AUS,Australia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,16.67,2007
+AUS,Australia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,17.776,2008
+AUS,Australia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,17.408,2009
+AUS,Australia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,16.622,2010
+AUS,Australia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,15.981,2011
+AUS,Australia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,15.709,2012
+AUS,Australia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,15.059,2013
+AUS,Australia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,13.249,2014
+AUS,Australia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,12.322,2015
+AUS,Australia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,10.968,2016
+AUS,Australia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,10.43,2017
+AUS,Australia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,9.983,2018
+AUS,Australia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,8.938,2019
+AUS,Australia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,8.081,2020
+AUS,Australia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,8.096,2021
+AUS,Australia,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,7.731,2022
+AUS,Australia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,16.316,1990
+AUS,Australia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,16.185,1991
+AUS,Australia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,16.294,1992
+AUS,Australia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,16.384,1993
+AUS,Australia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,16.495,1994
+AUS,Australia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,16.945,1995
+AUS,Australia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,17.128,1996
+AUS,Australia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,17.400,1997
+AUS,Australia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,17.963,1998
+AUS,Australia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,18.295,1999
+AUS,Australia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,18.404,2000
+AUS,Australia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,18.588,2001
+AUS,Australia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,18.615,2002
+AUS,Australia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,18.754,2003
+AUS,Australia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,19.216,2004
+AUS,Australia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,19.146,2005
+AUS,Australia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,19.174,2006
+AUS,Australia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,19.187,2007
+AUS,Australia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,19.026,2008
+AUS,Australia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,18.812,2009
+AUS,Australia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,18.416,2010
+AUS,Australia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,18.082,2011
+AUS,Australia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,17.888,2012
+AUS,Australia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,17.276,2013
+AUS,Australia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,16.747,2014
+AUS,Australia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,16.850,2015
+AUS,Australia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,16.956,2016
+AUS,Australia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,16.822,2017
+AUS,Australia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,16.628,2018
+AUS,Australia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,16.398,2019
+AUS,Australia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,15.453,2020
+AUS,Australia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,14.915,2021
+AUS,Australia,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,14.915,2022
+AUS,Australia,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,9.599,2010
+AUS,Australia,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,9.541,2011
+AUS,Australia,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,9.447,2012
+AUS,Australia,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,9.494,2013
+AUS,Australia,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,9.052,2014
+AUS,Australia,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,9.018,2015
+AUS,Australia,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,8.565,2016
+AUS,Australia,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,8.610,2017
+AUS,Australia,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,8.887,2018
+AUS,Australia,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,8.905,2019
+AUS,Australia,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,8.693,2020
+AUS,Australia,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,8.658,2021
+AUS,Australia,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,8.829,2022
+AUS,Australia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,22.569,1990
+AUS,Australia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,21.940,1991
+AUS,Australia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,23.618,1992
+AUS,Australia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,22.680,1993
+AUS,Australia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,23.139,1994
+AUS,Australia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,22.562,1995
+AUS,Australia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,22.285,1996
+AUS,Australia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,23.112,1997
+AUS,Australia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,24.804,1998
+AUS,Australia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,24.609,1999
+AUS,Australia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,24.107,2000
+AUS,Australia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,24.111,2001
+AUS,Australia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,24.612,2002
+AUS,Australia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,25.717,2003
+AUS,Australia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,27.423,2004
+AUS,Australia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,27.223,2005
+AUS,Australia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,27.133,2006
+AUS,Australia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,27.183,2007
+AUS,Australia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,26.413,2008
+AUS,Australia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,26.464,2009
+AUS,Australia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,26.082,2010
+AUS,Australia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,26.429,2011
+AUS,Australia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,26.423,2012
+AUS,Australia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,24.865,2013
+AUS,Australia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,25.027,2014
+AUS,Australia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,24.116,2015
+AUS,Australia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,23.397,2016
+AUS,Australia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,23.799,2017
+AUS,Australia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,22.635,2018
+AUS,Australia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,20.510,2019
+AUS,Australia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,19.937,2020
+AUS,Australia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,19.494,2021
+AUS,Australia,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,19.345,2022
+AUS,Australia,eys,Expected Years of Schooling (years),HDI,Human Development Index,17.433,1990
+AUS,Australia,eys,Expected Years of Schooling (years),HDI,Human Development Index,17.432,1991
+AUS,Australia,eys,Expected Years of Schooling (years),HDI,Human Development Index,17.432,1992
+AUS,Australia,eys,Expected Years of Schooling (years),HDI,Human Development Index,17.431,1993
+AUS,Australia,eys,Expected Years of Schooling (years),HDI,Human Development Index,17.431,1994
+AUS,Australia,eys,Expected Years of Schooling (years),HDI,Human Development Index,18.970,1995
+AUS,Australia,eys,Expected Years of Schooling (years),HDI,Human Development Index,19.512,1996
+AUS,Australia,eys,Expected Years of Schooling (years),HDI,Human Development Index,20.286,1997
+AUS,Australia,eys,Expected Years of Schooling (years),HDI,Human Development Index,20.451,1998
+AUS,Australia,eys,Expected Years of Schooling (years),HDI,Human Development Index,20.615,1999
+AUS,Australia,eys,Expected Years of Schooling (years),HDI,Human Development Index,20.780,2000
+AUS,Australia,eys,Expected Years of Schooling (years),HDI,Human Development Index,20.944,2001
+AUS,Australia,eys,Expected Years of Schooling (years),HDI,Human Development Index,21.109,2002
+AUS,Australia,eys,Expected Years of Schooling (years),HDI,Human Development Index,21.273,2003
+AUS,Australia,eys,Expected Years of Schooling (years),HDI,Human Development Index,21.438,2004
+AUS,Australia,eys,Expected Years of Schooling (years),HDI,Human Development Index,21.602,2005
+AUS,Australia,eys,Expected Years of Schooling (years),HDI,Human Development Index,21.767,2006
+AUS,Australia,eys,Expected Years of Schooling (years),HDI,Human Development Index,21.932,2007
+AUS,Australia,eys,Expected Years of Schooling (years),HDI,Human Development Index,22.096,2008
+AUS,Australia,eys,Expected Years of Schooling (years),HDI,Human Development Index,22.261,2009
+AUS,Australia,eys,Expected Years of Schooling (years),HDI,Human Development Index,22.425,2010
+AUS,Australia,eys,Expected Years of Schooling (years),HDI,Human Development Index,22.590,2011
+AUS,Australia,eys,Expected Years of Schooling (years),HDI,Human Development Index,22.754,2012
+AUS,Australia,eys,Expected Years of Schooling (years),HDI,Human Development Index,22.919,2013
+AUS,Australia,eys,Expected Years of Schooling (years),HDI,Human Development Index,23.083,2014
+AUS,Australia,eys,Expected Years of Schooling (years),HDI,Human Development Index,23.248,2015
+AUS,Australia,eys,Expected Years of Schooling (years),HDI,Human Development Index,22.856,2016
+AUS,Australia,eys,Expected Years of Schooling (years),HDI,Human Development Index,21.951,2017
+AUS,Australia,eys,Expected Years of Schooling (years),HDI,Human Development Index,20.428,2018
+AUS,Australia,eys,Expected Years of Schooling (years),HDI,Human Development Index,21.376,2019
+AUS,Australia,eys,Expected Years of Schooling (years),HDI,Human Development Index,20.939,2020
+AUS,Australia,eys,Expected Years of Schooling (years),HDI,Human Development Index,21.080,2021
+AUS,Australia,eys,Expected Years of Schooling (years),HDI,Human Development Index,21.080,2022
+AUS,Australia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,17.385,1990
+AUS,Australia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,17.391,1991
+AUS,Australia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,17.398,1992
+AUS,Australia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,17.404,1993
+AUS,Australia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,17.410,1994
+AUS,Australia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,18.972,1995
+AUS,Australia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,19.558,1996
+AUS,Australia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,20.563,1997
+AUS,Australia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,20.731,1998
+AUS,Australia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,20.899,1999
+AUS,Australia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,21.067,2000
+AUS,Australia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,21.235,2001
+AUS,Australia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,21.403,2002
+AUS,Australia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,21.571,2003
+AUS,Australia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,21.738,2004
+AUS,Australia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,21.906,2005
+AUS,Australia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,22.074,2006
+AUS,Australia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,22.242,2007
+AUS,Australia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,22.410,2008
+AUS,Australia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,22.578,2009
+AUS,Australia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,22.746,2010
+AUS,Australia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,22.914,2011
+AUS,Australia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,23.082,2012
+AUS,Australia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,23.250,2013
+AUS,Australia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,23.417,2014
+AUS,Australia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,23.585,2015
+AUS,Australia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,23.201,2016
+AUS,Australia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,22.398,2017
+AUS,Australia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,21.003,2018
+AUS,Australia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,22.010,2019
+AUS,Australia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,21.736,2020
+AUS,Australia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,21.981,2021
+AUS,Australia,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,21.981,2022
+AUS,Australia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,17.475,1990
+AUS,Australia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,17.469,1991
+AUS,Australia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,17.463,1992
+AUS,Australia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,17.456,1993
+AUS,Australia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,17.450,1994
+AUS,Australia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,18.968,1995
+AUS,Australia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,19.465,1996
+AUS,Australia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,20.022,1997
+AUS,Australia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,20.182,1998
+AUS,Australia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,20.343,1999
+AUS,Australia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,20.503,2000
+AUS,Australia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,20.664,2001
+AUS,Australia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,20.825,2002
+AUS,Australia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,20.985,2003
+AUS,Australia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,21.146,2004
+AUS,Australia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,21.306,2005
+AUS,Australia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,21.467,2006
+AUS,Australia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,21.627,2007
+AUS,Australia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,21.788,2008
+AUS,Australia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,21.949,2009
+AUS,Australia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,22.109,2010
+AUS,Australia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,22.270,2011
+AUS,Australia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,22.430,2012
+AUS,Australia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,22.591,2013
+AUS,Australia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,22.752,2014
+AUS,Australia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,22.912,2015
+AUS,Australia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,22.515,2016
+AUS,Australia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,21.508,2017
+AUS,Australia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,19.865,2018
+AUS,Australia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,20.747,2019
+AUS,Australia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,20.155,2020
+AUS,Australia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,20.194,2021
+AUS,Australia,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,20.194,2022
+AUS,Australia,gdi_group,GDI Group,GDI,Gender Development Index,1,2022
+AUS,Australia,gii_rank,GII Rank,GII,Gender Inequality Index,17,2022
+AUS,Australia,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,20109.049,1990
+AUS,Australia,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,20228.686,1991
+AUS,Australia,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,20992.045,1992
+AUS,Australia,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,21765.345,1993
+AUS,Australia,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,22334.120,1994
+AUS,Australia,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,23153.645,1995
+AUS,Australia,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,23933.181,1996
+AUS,Australia,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,24892.228,1997
+AUS,Australia,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,25951.219,1998
+AUS,Australia,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,26849.886,1999
+AUS,Australia,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,27423.242,2000
+AUS,Australia,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,25407.030,2001
+AUS,Australia,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,26390.864,2002
+AUS,Australia,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,27233.892,2003
+AUS,Australia,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,27108.674,2004
+AUS,Australia,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,27838.566,2005
+AUS,Australia,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,28903.449,2006
+AUS,Australia,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,29565.293,2007
+AUS,Australia,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,29390.025,2008
+AUS,Australia,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,29913.757,2009
+AUS,Australia,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,30190.843,2010
+AUS,Australia,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,31729.108,2011
+AUS,Australia,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,31424.791,2012
+AUS,Australia,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,31538.864,2013
+AUS,Australia,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,32349.674,2014
+AUS,Australia,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,33460.326,2015
+AUS,Australia,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,34077.095,2016
+AUS,Australia,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,34605.957,2017
+AUS,Australia,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,35840.018,2018
+AUS,Australia,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,36008.753,2019
+AUS,Australia,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,36766.367,2020
+AUS,Australia,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,37647.302,2021
+AUS,Australia,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,41131.471,2022
+AUS,Australia,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,37865.708,1990
+AUS,Australia,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,37345.690,1991
+AUS,Australia,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,39002.402,1992
+AUS,Australia,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,40322.286,1993
+AUS,Australia,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,40728.029,1994
+AUS,Australia,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,41566.423,1995
+AUS,Australia,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,42679.344,1996
+AUS,Australia,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,44201.415,1997
+AUS,Australia,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,45853.286,1998
+AUS,Australia,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,47154.093,1999
+AUS,Australia,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,47296.884,2000
+AUS,Australia,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,51483.425,2001
+AUS,Australia,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,51873.042,2002
+AUS,Australia,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,53374.529,2003
+AUS,Australia,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,54373.037,2004
+AUS,Australia,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,54685.159,2005
+AUS,Australia,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,54984.698,2006
+AUS,Australia,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,56112.113,2007
+AUS,Australia,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,56672.592,2008
+AUS,Australia,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,56016.170,2009
+AUS,Australia,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,56240.386,2010
+AUS,Australia,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,57610.455,2011
+AUS,Australia,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,59243.900,2012
+AUS,Australia,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,59825.766,2013
+AUS,Australia,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,60121.731,2014
+AUS,Australia,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,59843.470,2015
+AUS,Australia,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,59538.557,2016
+AUS,Australia,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,59764.347,2017
+AUS,Australia,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,58857.003,2018
+AUS,Australia,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,58275.269,2019
+AUS,Australia,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,59554.668,2020
+AUS,Australia,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,58654.455,2021
+AUS,Australia,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,57495.772,2022
+AUS,Australia,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,28963.944,1990
+AUS,Australia,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,28760.165,1991
+AUS,Australia,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,29964.004,1992
+AUS,Australia,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,31005.347,1993
+AUS,Australia,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,31489.409,1994
+AUS,Australia,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,32314.900,1995
+AUS,Australia,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,33255.271,1996
+AUS,Australia,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,34488.031,1997
+AUS,Australia,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,35835.988,1998
+AUS,Australia,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,36929.696,1999
+AUS,Australia,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,37285.528,2000
+AUS,Australia,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,38345.473,2001
+AUS,Australia,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,39035.728,2002
+AUS,Australia,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,40207.250,2003
+AUS,Australia,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,40642.130,2004
+AUS,Australia,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,41168.042,2005
+AUS,Australia,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,41858.098,2006
+AUS,Australia,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,42760.182,2007
+AUS,Australia,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,42962.350,2008
+AUS,Australia,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,42906.866,2009
+AUS,Australia,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,43158.475,2010
+AUS,Australia,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,44610.728,2011
+AUS,Australia,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,45268.492,2012
+AUS,Australia,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,45609.494,2013
+AUS,Australia,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,46153.799,2014
+AUS,Australia,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,46562.891,2015
+AUS,Australia,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,46712.898,2016
+AUS,Australia,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,47086.514,2017
+AUS,Australia,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,47256.855,2018
+AUS,Australia,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,47054.493,2019
+AUS,Australia,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,48074.571,2020
+AUS,Australia,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,48075.674,2021
+AUS,Australia,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,49257.135,2022
+AUS,Australia,hdi_f,HDI female,GDI,Gender Development Index,0.845,1990
+AUS,Australia,hdi_f,HDI female,GDI,Gender Development Index,0.847,1991
+AUS,Australia,hdi_f,HDI female,GDI,Gender Development Index,0.849,1992
+AUS,Australia,hdi_f,HDI female,GDI,Gender Development Index,0.854,1993
+AUS,Australia,hdi_f,HDI female,GDI,Gender Development Index,0.855,1994
+AUS,Australia,hdi_f,HDI female,GDI,Gender Development Index,0.864,1995
+AUS,Australia,hdi_f,HDI female,GDI,Gender Development Index,0.866,1996
+AUS,Australia,hdi_f,HDI female,GDI,Gender Development Index,0.869,1997
+AUS,Australia,hdi_f,HDI female,GDI,Gender Development Index,0.874,1998
+AUS,Australia,hdi_f,HDI female,GDI,Gender Development Index,0.876,1999
+AUS,Australia,hdi_f,HDI female,GDI,Gender Development Index,0.879,2000
+AUS,Australia,hdi_f,HDI female,GDI,Gender Development Index,0.877,2001
+AUS,Australia,hdi_f,HDI female,GDI,Gender Development Index,0.879,2002
+AUS,Australia,hdi_f,HDI female,GDI,Gender Development Index,0.884,2003
+AUS,Australia,hdi_f,HDI female,GDI,Gender Development Index,0.885,2004
+AUS,Australia,hdi_f,HDI female,GDI,Gender Development Index,0.889,2005
+AUS,Australia,hdi_f,HDI female,GDI,Gender Development Index,0.893,2006
+AUS,Australia,hdi_f,HDI female,GDI,Gender Development Index,0.895,2007
+AUS,Australia,hdi_f,HDI female,GDI,Gender Development Index,0.898,2008
+AUS,Australia,hdi_f,HDI female,GDI,Gender Development Index,0.902,2009
+AUS,Australia,hdi_f,HDI female,GDI,Gender Development Index,0.904,2010
+AUS,Australia,hdi_f,HDI female,GDI,Gender Development Index,0.908,2011
+AUS,Australia,hdi_f,HDI female,GDI,Gender Development Index,0.910,2012
+AUS,Australia,hdi_f,HDI female,GDI,Gender Development Index,0.908,2013
+AUS,Australia,hdi_f,HDI female,GDI,Gender Development Index,0.910,2014
+AUS,Australia,hdi_f,HDI female,GDI,Gender Development Index,0.914,2015
+AUS,Australia,hdi_f,HDI female,GDI,Gender Development Index,0.917,2016
+AUS,Australia,hdi_f,HDI female,GDI,Gender Development Index,0.919,2017
+AUS,Australia,hdi_f,HDI female,GDI,Gender Development Index,0.925,2018
+AUS,Australia,hdi_f,HDI female,GDI,Gender Development Index,0.925,2019
+AUS,Australia,hdi_f,HDI female,GDI,Gender Development Index,0.930,2020
+AUS,Australia,hdi_f,HDI female,GDI,Gender Development Index,0.932,2021
+AUS,Australia,hdi_f,HDI female,GDI,Gender Development Index,0.935,2022
+AUS,Australia,hdi_m,HDI male,GDI,Gender Development Index,0.878,1990
+AUS,Australia,hdi_m,HDI male,GDI,Gender Development Index,0.880,1991
+AUS,Australia,hdi_m,HDI male,GDI,Gender Development Index,0.883,1992
+AUS,Australia,hdi_m,HDI male,GDI,Gender Development Index,0.887,1993
+AUS,Australia,hdi_m,HDI male,GDI,Gender Development Index,0.887,1994
+AUS,Australia,hdi_m,HDI male,GDI,Gender Development Index,0.896,1995
+AUS,Australia,hdi_m,HDI male,GDI,Gender Development Index,0.898,1996
+AUS,Australia,hdi_m,HDI male,GDI,Gender Development Index,0.901,1997
+AUS,Australia,hdi_m,HDI male,GDI,Gender Development Index,0.904,1998
+AUS,Australia,hdi_m,HDI male,GDI,Gender Development Index,0.907,1999
+AUS,Australia,hdi_m,HDI male,GDI,Gender Development Index,0.909,2000
+AUS,Australia,hdi_m,HDI male,GDI,Gender Development Index,0.916,2001
+AUS,Australia,hdi_m,HDI male,GDI,Gender Development Index,0.918,2002
+AUS,Australia,hdi_m,HDI male,GDI,Gender Development Index,0.922,2003
+AUS,Australia,hdi_m,HDI male,GDI,Gender Development Index,0.925,2004
+AUS,Australia,hdi_m,HDI male,GDI,Gender Development Index,0.927,2005
+AUS,Australia,hdi_m,HDI male,GDI,Gender Development Index,0.929,2006
+AUS,Australia,hdi_m,HDI male,GDI,Gender Development Index,0.931,2007
+AUS,Australia,hdi_m,HDI male,GDI,Gender Development Index,0.935,2008
+AUS,Australia,hdi_m,HDI male,GDI,Gender Development Index,0.936,2009
+AUS,Australia,hdi_m,HDI male,GDI,Gender Development Index,0.938,2010
+AUS,Australia,hdi_m,HDI male,GDI,Gender Development Index,0.941,2011
+AUS,Australia,hdi_m,HDI male,GDI,Gender Development Index,0.946,2012
+AUS,Australia,hdi_m,HDI male,GDI,Gender Development Index,0.944,2013
+AUS,Australia,hdi_m,HDI male,GDI,Gender Development Index,0.947,2014
+AUS,Australia,hdi_m,HDI male,GDI,Gender Development Index,0.948,2015
+AUS,Australia,hdi_m,HDI male,GDI,Gender Development Index,0.950,2016
+AUS,Australia,hdi_m,HDI male,GDI,Gender Development Index,0.951,2017
+AUS,Australia,hdi_m,HDI male,GDI,Gender Development Index,0.954,2018
+AUS,Australia,hdi_m,HDI male,GDI,Gender Development Index,0.953,2019
+AUS,Australia,hdi_m,HDI male,GDI,Gender Development Index,0.962,2020
+AUS,Australia,hdi_m,HDI male,GDI,Gender Development Index,0.961,2021
+AUS,Australia,hdi_m,HDI male,GDI,Gender Development Index,0.956,2022
+AUS,Australia,hdi_rank,HDI Rank,HDI,Human Development Index,10,2022
+AUS,Australia,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,5.930,2010
+AUS,Australia,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,5.930,2011
+AUS,Australia,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,5.930,2012
+AUS,Australia,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,5.930,2013
+AUS,Australia,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,5.114,2014
+AUS,Australia,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,5.114,2015
+AUS,Australia,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,4.502,2016
+AUS,Australia,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,4.502,2017
+AUS,Australia,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,4.745,2018
+AUS,Australia,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,4.745,2019
+AUS,Australia,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,4.745,2020
+AUS,Australia,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,4.745,2021
+AUS,Australia,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,4.745,2022
+AUS,Australia,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,18.793,2010
+AUS,Australia,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,18.793,2011
+AUS,Australia,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,18.793,2012
+AUS,Australia,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,18.793,2013
+AUS,Australia,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,18.445,2014
+AUS,Australia,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,18.445,2015
+AUS,Australia,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,17.778,2016
+AUS,Australia,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,17.778,2017
+AUS,Australia,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,18.490,2018
+AUS,Australia,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,18.490,2019
+AUS,Australia,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,18.490,2020
+AUS,Australia,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,18.490,2021
+AUS,Australia,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,18.490,2022
+AUS,Australia,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,4.075,2010
+AUS,Australia,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,3.899,2011
+AUS,Australia,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,3.618,2012
+AUS,Australia,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,3.760,2013
+AUS,Australia,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,3.597,2014
+AUS,Australia,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,3.496,2015
+AUS,Australia,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,3.415,2016
+AUS,Australia,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,3.551,2017
+AUS,Australia,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,3.427,2018
+AUS,Australia,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,3.481,2019
+AUS,Australia,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,2.844,2020
+AUS,Australia,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,2.738,2021
+AUS,Australia,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,3.251,2022
+AUS,Australia,le,Life Expectancy at Birth (years),HDI,Human Development Index,77.044,1990
+AUS,Australia,le,Life Expectancy at Birth (years),HDI,Human Development Index,77.483,1991
+AUS,Australia,le,Life Expectancy at Birth (years),HDI,Human Development Index,77.477,1992
+AUS,Australia,le,Life Expectancy at Birth (years),HDI,Human Development Index,78.01,1993
+AUS,Australia,le,Life Expectancy at Birth (years),HDI,Human Development Index,77.856,1994
+AUS,Australia,le,Life Expectancy at Birth (years),HDI,Human Development Index,78.262,1995
+AUS,Australia,le,Life Expectancy at Birth (years),HDI,Human Development Index,78.349,1996
+AUS,Australia,le,Life Expectancy at Birth (years),HDI,Human Development Index,78.632,1997
+AUS,Australia,le,Life Expectancy at Birth (years),HDI,Human Development Index,79.028,1998
+AUS,Australia,le,Life Expectancy at Birth (years),HDI,Human Development Index,79.285,1999
+AUS,Australia,le,Life Expectancy at Birth (years),HDI,Human Development Index,79.631,2000
+AUS,Australia,le,Life Expectancy at Birth (years),HDI,Human Development Index,80.016,2001
+AUS,Australia,le,Life Expectancy at Birth (years),HDI,Human Development Index,80.064,2002
+AUS,Australia,le,Life Expectancy at Birth (years),HDI,Human Development Index,80.455,2003
+AUS,Australia,le,Life Expectancy at Birth (years),HDI,Human Development Index,80.751,2004
+AUS,Australia,le,Life Expectancy at Birth (years),HDI,Human Development Index,81.113,2005
+AUS,Australia,le,Life Expectancy at Birth (years),HDI,Human Development Index,81.282,2006
+AUS,Australia,le,Life Expectancy at Birth (years),HDI,Human Development Index,81.26,2007
+AUS,Australia,le,Life Expectancy at Birth (years),HDI,Human Development Index,81.459,2008
+AUS,Australia,le,Life Expectancy at Birth (years),HDI,Human Development Index,81.766,2009
+AUS,Australia,le,Life Expectancy at Birth (years),HDI,Human Development Index,82.055,2010
+AUS,Australia,le,Life Expectancy at Birth (years),HDI,Human Development Index,82.134,2011
+AUS,Australia,le,Life Expectancy at Birth (years),HDI,Human Development Index,82.346,2012
+AUS,Australia,le,Life Expectancy at Birth (years),HDI,Human Development Index,82.604,2013
+AUS,Australia,le,Life Expectancy at Birth (years),HDI,Human Development Index,82.568,2014
+AUS,Australia,le,Life Expectancy at Birth (years),HDI,Human Development Index,82.655,2015
+AUS,Australia,le,Life Expectancy at Birth (years),HDI,Human Development Index,82.871,2016
+AUS,Australia,le,Life Expectancy at Birth (years),HDI,Human Development Index,83.001,2017
+AUS,Australia,le,Life Expectancy at Birth (years),HDI,Human Development Index,83.387,2018
+AUS,Australia,le,Life Expectancy at Birth (years),HDI,Human Development Index,83.11,2019
+AUS,Australia,le,Life Expectancy at Birth (years),HDI,Human Development Index,84.324,2020
+AUS,Australia,le,Life Expectancy at Birth (years),HDI,Human Development Index,84.526,2021
+AUS,Australia,le,Life Expectancy at Birth (years),HDI,Human Development Index,83.579,2022
+AUS,Australia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,80.147,1990
+AUS,Australia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,80.492,1991
+AUS,Australia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,80.486,1992
+AUS,Australia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,80.991,1993
+AUS,Australia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,80.822,1994
+AUS,Australia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,81.131,1995
+AUS,Australia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,81.255,1996
+AUS,Australia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,81.386,1997
+AUS,Australia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,81.86,1998
+AUS,Australia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,82.048,1999
+AUS,Australia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,82.277,2000
+AUS,Australia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,82.607,2001
+AUS,Australia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,82.54,2002
+AUS,Australia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,82.919,2003
+AUS,Australia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,83.18,2004
+AUS,Australia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,83.49,2005
+AUS,Australia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,83.593,2006
+AUS,Australia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,83.553,2007
+AUS,Australia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,83.722,2008
+AUS,Australia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,84.027,2009
+AUS,Australia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,84.234,2010
+AUS,Australia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,84.292,2011
+AUS,Australia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,84.347,2012
+AUS,Australia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,84.675,2013
+AUS,Australia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,84.544,2014
+AUS,Australia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,84.673,2015
+AUS,Australia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,84.912,2016
+AUS,Australia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,84.986,2017
+AUS,Australia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,85.389,2018
+AUS,Australia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,85.096,2019
+AUS,Australia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,85.719,2020
+AUS,Australia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,85.84,2021
+AUS,Australia,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,85.453,2022
+AUS,Australia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,73.978,1990
+AUS,Australia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,74.49,1991
+AUS,Australia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,74.493,1992
+AUS,Australia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,75.037,1993
+AUS,Australia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,74.917,1994
+AUS,Australia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,75.391,1995
+AUS,Australia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,75.453,1996
+AUS,Australia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,75.866,1997
+AUS,Australia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,76.181,1998
+AUS,Australia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,76.503,1999
+AUS,Australia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,76.95,2000
+AUS,Australia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,77.388,2001
+AUS,Australia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,77.546,2002
+AUS,Australia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,77.95,2003
+AUS,Australia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,78.274,2004
+AUS,Australia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,78.684,2005
+AUS,Australia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,78.921,2006
+AUS,Australia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,78.937,2007
+AUS,Australia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,79.171,2008
+AUS,Australia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,79.48,2009
+AUS,Australia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,79.845,2010
+AUS,Australia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,79.956,2011
+AUS,Australia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,80.314,2012
+AUS,Australia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,80.512,2013
+AUS,Australia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,80.569,2014
+AUS,Australia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,80.628,2015
+AUS,Australia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,80.827,2016
+AUS,Australia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,81.005,2017
+AUS,Australia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,81.376,2018
+AUS,Australia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,81.124,2019
+AUS,Australia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,82.889,2020
+AUS,Australia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,83.172,2021
+AUS,Australia,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,81.708,2022
+AUS,Australia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,52.25,1990
+AUS,Australia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,50.85,1991
+AUS,Australia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,51.96,1992
+AUS,Australia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,51.72,1993
+AUS,Australia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,52.61,1994
+AUS,Australia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,53.61,1995
+AUS,Australia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,53.8,1996
+AUS,Australia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,53.6,1997
+AUS,Australia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,53.65,1998
+AUS,Australia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,53.64,1999
+AUS,Australia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,54.52,2000
+AUS,Australia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,55.07,2001
+AUS,Australia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,55.27,2002
+AUS,Australia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,55.94,2003
+AUS,Australia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,55.71,2004
+AUS,Australia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,56.99,2005
+AUS,Australia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,57.55,2006
+AUS,Australia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,58.1,2007
+AUS,Australia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,58.56,2008
+AUS,Australia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,58.77,2009
+AUS,Australia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,58.64,2010
+AUS,Australia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,58.89,2011
+AUS,Australia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,58.79,2012
+AUS,Australia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,58.71,2013
+AUS,Australia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,58.67,2014
+AUS,Australia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,59.12,2015
+AUS,Australia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,59.35,2016
+AUS,Australia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,59.86,2017
+AUS,Australia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,60.52,2018
+AUS,Australia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,60.97,2019
+AUS,Australia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,60.21,2020
+AUS,Australia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,61.23,2021
+AUS,Australia,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,62.31,2022
+AUS,Australia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,75.59,1990
+AUS,Australia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,72.42,1991
+AUS,Australia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,74.14,1992
+AUS,Australia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,73.55,1993
+AUS,Australia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,73.61,1994
+AUS,Australia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,73.81,1995
+AUS,Australia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,73.58,1996
+AUS,Australia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,73.01,1997
+AUS,Australia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,72.71,1998
+AUS,Australia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,72.24,1999
+AUS,Australia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,72.1,2000
+AUS,Australia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,71.87,2001
+AUS,Australia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,71.79,2002
+AUS,Australia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,71.54,2003
+AUS,Australia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,71.52,2004
+AUS,Australia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,72.09,2005
+AUS,Australia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,72.25,2006
+AUS,Australia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,72.52,2007
+AUS,Australia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,72.63,2008
+AUS,Australia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,72.31,2009
+AUS,Australia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,72.37,2010
+AUS,Australia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,72.18,2011
+AUS,Australia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,71.73,2012
+AUS,Australia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,71.4,2013
+AUS,Australia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,70.95,2014
+AUS,Australia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,71.1,2015
+AUS,Australia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,70.6,2016
+AUS,Australia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,70.7,2017
+AUS,Australia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,70.96,2018
+AUS,Australia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,71.12,2019
+AUS,Australia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,70.04,2020
+AUS,Australia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,70.64,2021
+AUS,Australia,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,71.13,2022
+AUS,Australia,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,9.848,2010
+AUS,Australia,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,9.817,2011
+AUS,Australia,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,9.774,2012
+AUS,Australia,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,9.688,2013
+AUS,Australia,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,9.237,2014
+AUS,Australia,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,9.218,2015
+AUS,Australia,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,8.868,2016
+AUS,Australia,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,8.858,2017
+AUS,Australia,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,9.139,2018
+AUS,Australia,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,9.245,2019
+AUS,Australia,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,8.966,2020
+AUS,Australia,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,8.851,2021
+AUS,Australia,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,9.091,2022
+AUS,Australia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,33.577,1990
+AUS,Australia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,31.880,1991
+AUS,Australia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,36.426,1992
+AUS,Australia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,33.836,1993
+AUS,Australia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,34.908,1994
+AUS,Australia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,32.308,1995
+AUS,Australia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,31.379,1996
+AUS,Australia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,33.161,1997
+AUS,Australia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,36.807,1998
+AUS,Australia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,35.813,1999
+AUS,Australia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,33.926,2000
+AUS,Australia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,33.704,2001
+AUS,Australia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,35.098,2002
+AUS,Australia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,37.940,2003
+AUS,Australia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,41.824,2004
+AUS,Australia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,41.478,2005
+AUS,Australia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,41.060,2006
+AUS,Australia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,41.331,2007
+AUS,Australia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,39.463,2008
+AUS,Australia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,39.902,2009
+AUS,Australia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,39.564,2010
+AUS,Australia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,41.296,2011
+AUS,Australia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,41.455,2012
+AUS,Australia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,38.213,2013
+AUS,Australia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,39.651,2014
+AUS,Australia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,36.863,2015
+AUS,Australia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,34.604,2016
+AUS,Australia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,36.191,2017
+AUS,Australia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,33.261,2018
+AUS,Australia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,27.654,2019
+AUS,Australia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,27.876,2020
+AUS,Australia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,27.578,2021
+AUS,Australia,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,26.924,2022
+AUS,Australia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,8.256,1990
+AUS,Australia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,8.785,1991
+AUS,Australia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,8.793,1992
+AUS,Australia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,8.959,1993
+AUS,Australia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,9.349,1994
+AUS,Australia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,8.086,1995
+AUS,Australia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,7.787,1996
+AUS,Australia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,7.883,1997
+AUS,Australia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,7.468,1998
+AUS,Australia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,7.177,1999
+AUS,Australia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,6.694,2000
+AUS,Australia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,5.972,2001
+AUS,Australia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,5.568,2002
+AUS,Australia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,5.515,2003
+AUS,Australia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,5.117,2004
+AUS,Australia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,4.596,2005
+AUS,Australia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,4.566,2006
+AUS,Australia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,5.107,2007
+AUS,Australia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,4.890,2008
+AUS,Australia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,5.381,2009
+AUS,Australia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,5.452,2010
+AUS,Australia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,5.937,2011
+AUS,Australia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,5.859,2012
+AUS,Australia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,5.994,2013
+AUS,Australia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,5.390,2014
+AUS,Australia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,5.244,2015
+AUS,Australia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,5.176,2016
+AUS,Australia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,4.771,2017
+AUS,Australia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,4.424,2018
+AUS,Australia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,5.086,2019
+AUS,Australia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,2.942,2020
+AUS,Australia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,2.942,2021
+AUS,Australia,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,2.942,2022
+AUS,Australia,mys,Mean Years of Schooling (years),HDI,Human Development Index,11.228,1990
+AUS,Australia,mys,Mean Years of Schooling (years),HDI,Human Development Index,11.250,1991
+AUS,Australia,mys,Mean Years of Schooling (years),HDI,Human Development Index,11.272,1992
+AUS,Australia,mys,Mean Years of Schooling (years),HDI,Human Development Index,11.294,1993
+AUS,Australia,mys,Mean Years of Schooling (years),HDI,Human Development Index,11.316,1994
+AUS,Australia,mys,Mean Years of Schooling (years),HDI,Human Development Index,11.338,1995
+AUS,Australia,mys,Mean Years of Schooling (years),HDI,Human Development Index,11.328,1996
+AUS,Australia,mys,Mean Years of Schooling (years),HDI,Human Development Index,11.318,1997
+AUS,Australia,mys,Mean Years of Schooling (years),HDI,Human Development Index,11.308,1998
+AUS,Australia,mys,Mean Years of Schooling (years),HDI,Human Development Index,11.298,1999
+AUS,Australia,mys,Mean Years of Schooling (years),HDI,Human Development Index,11.288,2000
+AUS,Australia,mys,Mean Years of Schooling (years),HDI,Human Development Index,11.344,2001
+AUS,Australia,mys,Mean Years of Schooling (years),HDI,Human Development Index,11.400,2002
+AUS,Australia,mys,Mean Years of Schooling (years),HDI,Human Development Index,11.456,2003
+AUS,Australia,mys,Mean Years of Schooling (years),HDI,Human Development Index,11.512,2004
+AUS,Australia,mys,Mean Years of Schooling (years),HDI,Human Development Index,11.548,2005
+AUS,Australia,mys,Mean Years of Schooling (years),HDI,Human Development Index,11.645,2006
+AUS,Australia,mys,Mean Years of Schooling (years),HDI,Human Development Index,11.712,2007
+AUS,Australia,mys,Mean Years of Schooling (years),HDI,Human Development Index,11.938,2008
+AUS,Australia,mys,Mean Years of Schooling (years),HDI,Human Development Index,11.987,2009
+AUS,Australia,mys,Mean Years of Schooling (years),HDI,Human Development Index,12.034,2010
+AUS,Australia,mys,Mean Years of Schooling (years),HDI,Human Development Index,12.116,2011
+AUS,Australia,mys,Mean Years of Schooling (years),HDI,Human Development Index,12.296,2012
+AUS,Australia,mys,Mean Years of Schooling (years),HDI,Human Development Index,12.019,2013
+AUS,Australia,mys,Mean Years of Schooling (years),HDI,Human Development Index,12.167,2014
+AUS,Australia,mys,Mean Years of Schooling (years),HDI,Human Development Index,12.246,2015
+AUS,Australia,mys,Mean Years of Schooling (years),HDI,Human Development Index,12.352,2016
+AUS,Australia,mys,Mean Years of Schooling (years),HDI,Human Development Index,12.422,2017
+AUS,Australia,mys,Mean Years of Schooling (years),HDI,Human Development Index,12.554,2018
+AUS,Australia,mys,Mean Years of Schooling (years),HDI,Human Development Index,12.657,2019
+AUS,Australia,mys,Mean Years of Schooling (years),HDI,Human Development Index,12.727,2020
+AUS,Australia,mys,Mean Years of Schooling (years),HDI,Human Development Index,12.727,2021
+AUS,Australia,mys,Mean Years of Schooling (years),HDI,Human Development Index,12.727,2022
+AUS,Australia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,10.984,1990
+AUS,Australia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,11.004,1991
+AUS,Australia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,11.024,1992
+AUS,Australia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,11.043,1993
+AUS,Australia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,11.063,1994
+AUS,Australia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,11.083,1995
+AUS,Australia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,11.087,1996
+AUS,Australia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,11.091,1997
+AUS,Australia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,11.095,1998
+AUS,Australia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,11.099,1999
+AUS,Australia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,11.103,2000
+AUS,Australia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,11.167,2001
+AUS,Australia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,11.230,2002
+AUS,Australia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,11.294,2003
+AUS,Australia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,11.358,2004
+AUS,Australia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,11.412,2005
+AUS,Australia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,11.558,2006
+AUS,Australia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,11.634,2007
+AUS,Australia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,11.906,2008
+AUS,Australia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,11.968,2009
+AUS,Australia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,12.041,2010
+AUS,Australia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,12.155,2011
+AUS,Australia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,12.313,2012
+AUS,Australia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,12.042,2013
+AUS,Australia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,12.132,2014
+AUS,Australia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,12.235,2015
+AUS,Australia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,12.358,2016
+AUS,Australia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,12.458,2017
+AUS,Australia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,12.618,2018
+AUS,Australia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,12.702,2019
+AUS,Australia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,12.811,2020
+AUS,Australia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,12.811,2021
+AUS,Australia,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,12.811,2022
+AUS,Australia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,11.496,1990
+AUS,Australia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,11.521,1991
+AUS,Australia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,11.545,1992
+AUS,Australia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,11.569,1993
+AUS,Australia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,11.593,1994
+AUS,Australia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,11.618,1995
+AUS,Australia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,11.591,1996
+AUS,Australia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,11.565,1997
+AUS,Australia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,11.539,1998
+AUS,Australia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,11.512,1999
+AUS,Australia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,11.486,2000
+AUS,Australia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,11.533,2001
+AUS,Australia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,11.579,2002
+AUS,Australia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,11.626,2003
+AUS,Australia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,11.672,2004
+AUS,Australia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,11.689,2005
+AUS,Australia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,11.735,2006
+AUS,Australia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,11.792,2007
+AUS,Australia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,11.971,2008
+AUS,Australia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,12.008,2009
+AUS,Australia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,12.029,2010
+AUS,Australia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,12.076,2011
+AUS,Australia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,12.279,2012
+AUS,Australia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,11.995,2013
+AUS,Australia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,12.203,2014
+AUS,Australia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,12.256,2015
+AUS,Australia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,12.346,2016
+AUS,Australia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,12.386,2017
+AUS,Australia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,12.487,2018
+AUS,Australia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,12.609,2019
+AUS,Australia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,12.640,2020
+AUS,Australia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,12.640,2021
+AUS,Australia,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,12.640,2022
+AUS,Australia,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,20.536,1990
+AUS,Australia,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,20.536,1991
+AUS,Australia,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,20.536,1992
+AUS,Australia,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,20.536,1993
+AUS,Australia,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,20.536,1994
+AUS,Australia,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,20.536,1995
+AUS,Australia,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,20.536,1996
+AUS,Australia,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,20.536,1997
+AUS,Australia,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,20.536,1998
+AUS,Australia,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,24.664,1999
+AUS,Australia,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,25,2000
+AUS,Australia,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,25,2001
+AUS,Australia,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,26.549,2002
+AUS,Australia,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,26.549,2003
+AUS,Australia,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,28.319,2004
+AUS,Australia,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,28.319,2005
+AUS,Australia,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,28.319,2006
+AUS,Australia,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,29.646,2007
+AUS,Australia,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,29.646,2008
+AUS,Australia,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,30.088,2009
+AUS,Australia,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,28.319,2010
+AUS,Australia,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,29.204,2011
+AUS,Australia,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,29.204,2012
+AUS,Australia,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,31.111,2013
+AUS,Australia,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,30.088,2014
+AUS,Australia,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,30.531,2015
+AUS,Australia,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,31.416,2016
+AUS,Australia,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,32.743,2017
+AUS,Australia,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,32.743,2018
+AUS,Australia,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,36.564,2019
+AUS,Australia,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,36.726,2020
+AUS,Australia,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,37.885,2021
+AUS,Australia,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,44.493,2022
+AUS,Australia,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,79.464,1990
+AUS,Australia,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,79.464,1991
+AUS,Australia,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,79.464,1992
+AUS,Australia,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,79.464,1993
+AUS,Australia,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,79.464,1994
+AUS,Australia,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,79.464,1995
+AUS,Australia,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,79.464,1996
+AUS,Australia,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,79.464,1997
+AUS,Australia,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,79.464,1998
+AUS,Australia,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,75.336,1999
+AUS,Australia,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,75,2000
+AUS,Australia,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,75,2001
+AUS,Australia,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,73.451,2002
+AUS,Australia,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,73.451,2003
+AUS,Australia,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,71.681,2004
+AUS,Australia,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,71.681,2005
+AUS,Australia,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,71.681,2006
+AUS,Australia,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,70.354,2007
+AUS,Australia,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,70.354,2008
+AUS,Australia,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,69.912,2009
+AUS,Australia,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,71.681,2010
+AUS,Australia,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,70.796,2011
+AUS,Australia,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,70.796,2012
+AUS,Australia,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,68.889,2013
+AUS,Australia,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,69.912,2014
+AUS,Australia,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,69.469,2015
+AUS,Australia,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,68.584,2016
+AUS,Australia,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,67.257,2017
+AUS,Australia,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,67.257,2018
+AUS,Australia,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,63.436,2019
+AUS,Australia,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,63.274,2020
+AUS,Australia,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,62.115,2021
+AUS,Australia,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,55.507,2022
+AUS,Australia,rankdiff_hdi_phdi,Difference from HDI rank,PHDI,Planetary pressures–adjusted Human Development Index,-29,2022
+AUS,Australia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,90.139,1990
+AUS,Australia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,89.743,1991
+AUS,Australia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,89.348,1992
+AUS,Australia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,88.953,1993
+AUS,Australia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,88.558,1994
+AUS,Australia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,88.162,1995
+AUS,Australia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,88.144,1996
+AUS,Australia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,88.126,1997
+AUS,Australia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,88.108,1998
+AUS,Australia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,88.090,1999
+AUS,Australia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,88.072,2000
+AUS,Australia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,88.315,2001
+AUS,Australia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,88.558,2002
+AUS,Australia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,88.800,2003
+AUS,Australia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,89.043,2004
+AUS,Australia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,90.262,2005
+AUS,Australia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,90.777,2006
+AUS,Australia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,91.471,2007
+AUS,Australia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,92.021,2008
+AUS,Australia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,92.242,2009
+AUS,Australia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,93.352,2010
+AUS,Australia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,93.742,2011
+AUS,Australia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,94.278,2012
+AUS,Australia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,91.078,2013
+AUS,Australia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,91.453,2014
+AUS,Australia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,92.389,2015
+AUS,Australia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,92.378,2016
+AUS,Australia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,92.825,2017
+AUS,Australia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,93.473,2018
+AUS,Australia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,93.874,2019
+AUS,Australia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,94.580,2020
+AUS,Australia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,94.580,2021
+AUS,Australia,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,94.580,2022
+AUS,Australia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,90.637,1990
+AUS,Australia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,90.543,1991
+AUS,Australia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,90.449,1992
+AUS,Australia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,90.355,1993
+AUS,Australia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,90.261,1994
+AUS,Australia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,90.167,1995
+AUS,Australia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,90.079,1996
+AUS,Australia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,89.991,1997
+AUS,Australia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,89.904,1998
+AUS,Australia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,89.816,1999
+AUS,Australia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,89.728,2000
+AUS,Australia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,89.908,2001
+AUS,Australia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,90.087,2002
+AUS,Australia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,90.267,2003
+AUS,Australia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,90.447,2004
+AUS,Australia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,91.458,2005
+AUS,Australia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,91.512,2006
+AUS,Australia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,91.982,2007
+AUS,Australia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,92.653,2008
+AUS,Australia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,92.236,2009
+AUS,Australia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,93.048,2010
+AUS,Australia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,93.472,2011
+AUS,Australia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,94.622,2012
+AUS,Australia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,91.085,2013
+AUS,Australia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,92.211,2014
+AUS,Australia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,92.915,2015
+AUS,Australia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,93.159,2016
+AUS,Australia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,93.192,2017
+AUS,Australia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,93.405,2018
+AUS,Australia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,94.020,2019
+AUS,Australia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,94.430,2020
+AUS,Australia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,94.430,2021
+AUS,Australia,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,94.430,2022
